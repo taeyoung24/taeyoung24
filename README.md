@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @taeyoung24
-- 👀 I’m interested in design and developing chatbot, making video graphics
-- 🌱 I’m currently learning Linux and using open sources with github
-- 💞️ I’m looking to collaborate on be calm
-- 📫 How to reach me jtyoung1024@gmail.com
+
+- 👋 Hi, I’m @taeyoung24, Taeyoung Jung.
+- 👀 I enjoy Python development and am interested in creating video graphic designs.
+- 🌱 I’m currently studying Computer Science and working on developing my skills related to computers.
+- 💞️ I like to believe in dreams, hope, romance, and miracles.
+- 📫 How to reach me: jtyoung1024@gmail.com (Slack-email)
 
 <!---
 taeyoung24/taeyoung24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
